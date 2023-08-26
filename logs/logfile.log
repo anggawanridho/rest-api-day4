@@ -1,0 +1,695 @@
+
+    [2023-08-26T00:32:07.456Z]
+    IP Address: ::1
+    User Agent: PostmanRuntime/7.32.3
+    Referrer: undefined
+    Query Parameters: {}
+    Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e89c6381-b611-4904-a490-eff3620f9bba","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+    Request Body: {}
+    Method: GET
+    URL: /books/1
+    Full URL: http://localhost:3000/api/books/1
+    -----------------------------------------------
+
+    [2023-08-26T00:32:10.060Z]
+    IP Address: ::1
+    User Agent: PostmanRuntime/7.32.3
+    Referrer: undefined
+    Query Parameters: {}
+    Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"55f8a662-f8ad-445e-bcc7-006f554e8aa6","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+    Request Body: {}
+    Method: GET
+    URL: /books/2
+    Full URL: http://localhost:3000/api/books/2
+    -----------------------------------------------
+[2023-08-26T00:35:41.966Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"294c2977-9f72-4885-8b37-8fa14fc567c3","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/12
+Full URL: http://localhost:3000/api/books/12
+-----------------------------------------------[2023-08-26T00:45:21.433Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"title":"Kolor Ijo","author":"Jaka","year":"2001","publisher":"Gemscoop","genre":"Lenong","rating":"4.8"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"c1e3ead2-a774-4361-983a-12ef7ee5f55a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books?title=Kolor%20Ijo&author=Jaka&year=2001&publisher=Gemscoop&genre=Lenong&rating=4.8
+Full URL: http://localhost:3000/api/books?title=Kolor%20Ijo&author=Jaka&year=2001&publisher=Gemscoop&genre=Lenong&rating=4.8
+-----------------------------------------------[2023-08-26T00:46:40.156Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"title":"Kolor Ijo","author":"Jaka","year":"2001","publisher":"Gemscoop","genre":"Lenong","rating":"4.8"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"73ff24d6-7d10-403f-ac02-1dbfc7ea55e4","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books?title=Kolor%20Ijo&author=Jaka&year=2001&publisher=Gemscoop&genre=Lenong&rating=4.8
+Full URL: http://localhost:3000/api/books?title=Kolor%20Ijo&author=Jaka&year=2001&publisher=Gemscoop&genre=Lenong&rating=4.8
+-----------------------------------------------[2023-08-26T00:47:07.747Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"title":"Kolor Ijo","author":"Jaka","year":"2001","publisher":"Gemscoop","genre":"Lenong","rating":"4.8","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"d19fa35b-a612-4e2d-beca-987108d5cdc7","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books?title=Kolor%20Ijo&author=Jaka&year=2001&publisher=Gemscoop&genre=Lenong&rating=4.8&role=admin
+Full URL: http://localhost:3000/api/books?title=Kolor%20Ijo&author=Jaka&year=2001&publisher=Gemscoop&genre=Lenong&rating=4.8&role=admin
+-----------------------------------------------[2023-08-26T00:47:50.825Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"6bd7d6d8-45ed-4fd6-8d5c-ebcd8825779b","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books
+Full URL: http://localhost:3000/api/books
+-----------------------------------------------[2023-08-26T00:47:55.183Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"9447ef8d-06c0-4a26-8f5d-342c4c965b6f","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books
+Full URL: http://localhost:3000/api/books
+-----------------------------------------------[2023-08-26T00:50:46.737Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"05d4cc8d-a8f2-47f1-b592-c5bb70707f17","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: DELETE
+URL: /books/16
+Full URL: http://localhost:3000/api/books/16
+-----------------------------------------------[2023-08-26T00:50:57.695Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"f80c64f7-1e3b-4c8b-a687-fe92501bec23","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: DELETE
+URL: /books/16?role=admin
+Full URL: http://localhost:3000/api/books/16?role=admin
+-----------------------------------------------[2023-08-26T00:51:05.067Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"2ce087cb-5638-473b-ab34-5f9378b3e0eb","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: DELETE
+URL: /books/
+Full URL: http://localhost:3000/api/books/
+-----------------------------------------------[2023-08-26T00:51:09.748Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"54bfb889-65a7-47d2-837a-b0660bdae86e","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/
+Full URL: http://localhost:3000/api/books/
+-----------------------------------------------[2023-08-26T00:51:17.869Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"c419210f-2e1f-4204-8d37-81d3938e9bca","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: DELETE
+URL: /books/15
+Full URL: http://localhost:3000/api/books/15
+-----------------------------------------------[2023-08-26T00:51:26.428Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"29bc3824-afc1-4772-92fa-6c9c2c5e2027","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: DELETE
+URL: /books/15?role=admin
+Full URL: http://localhost:3000/api/books/15?role=admin
+-----------------------------------------------[2023-08-26T00:52:40.373Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"a6edcb54-c79a-4ce7-8b4c-3b1642d9f651","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: DELETE
+URL: /books/15?role=admin
+Full URL: http://localhost:3000/api/books/15?role=admin
+-----------------------------------------------[2023-08-26T00:52:46.222Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"8933bbdf-30c2-4b57-8cd1-507c2cda99aa","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: DELETE
+URL: /books/14?role=admin
+Full URL: http://localhost:3000/api/books/14?role=admin
+-----------------------------------------------[2023-08-26T00:52:53.658Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"836fb8b4-5d9c-4a13-9dc5-b9febb618ad3","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: DELETE
+URL: /books/
+Full URL: http://localhost:3000/api/books/
+-----------------------------------------------[2023-08-26T00:52:57.662Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"18623bb9-aef8-4f75-8f6e-183021eab97a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: DELETE
+URL: /books/
+Full URL: http://localhost:3000/api/books/
+-----------------------------------------------[2023-08-26T00:53:07.065Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"01191a63-ad94-424b-8d7e-7daddf709230","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/14?role=admin
+Full URL: http://localhost:3000/api/books/14?role=admin
+-----------------------------------------------[2023-08-26T00:53:12.764Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e5b0b1b4-5f4d-4a1b-b588-fc88251acd50","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/14
+Full URL: http://localhost:3000/api/books/14
+-----------------------------------------------[2023-08-26T00:53:16.477Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"97ea5517-4889-4515-ad23-877ae91d7a7e","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/
+Full URL: http://localhost:3000/api/books/
+-----------------------------------------------[2023-08-26T00:55:02.056Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e971d17b-5358-445d-8ee8-9d5c4791b3aa","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/
+Full URL: http://localhost:3000/api/books/
+-----------------------------------------------[2023-08-26T00:55:09.980Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"f4dbf526-f885-4adf-9f8e-702127d4802d","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/
+Full URL: http://localhost:3000/api/books/
+-----------------------------------------------[2023-08-26T00:55:17.396Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"15fc3a40-b6ac-4c7e-9284-c6ccd4a59576","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/1
+Full URL: http://localhost:3000/api/books/1
+-----------------------------------------------[2023-08-26T00:55:18.718Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"baebb0d3-ea45-43b7-9a26-eabb2454d6a0","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/1
+Full URL: http://localhost:3000/api/books/1
+-----------------------------------------------[2023-08-26T00:55:41.903Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"id":"1"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"00021aa8-ac5e-4794-98f8-c9d3570e1cbd","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/?id=1
+Full URL: http://localhost:3000/api/books/?id=1
+-----------------------------------------------[2023-08-26T00:59:24.566Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"45f9c8c6-b443-4d05-aea3-272e0e1b05f7","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/
+Full URL: http://localhost:3000/api/books/
+-----------------------------------------------[2023-08-26T00:59:34.222Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"id":"1"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"311fd425-c14a-4ab8-b5d3-fb5fd51cd77b","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/?id=1
+Full URL: http://localhost:3000/api/books/?id=1
+-----------------------------------------------[2023-08-26T01:05:19.532Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"id":"1"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"71314c39-4767-46ee-8f7b-cc215306146d","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/?id=1
+Full URL: http://localhost:3000/api/books/?id=1
+-----------------------------------------------[2023-08-26T01:05:20.648Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"id":"1"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"deff7f6d-8bf4-45d1-aa66-84404c2b102d","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/?id=1
+Full URL: http://localhost:3000/api/books/?id=1
+-----------------------------------------------[2023-08-26T01:07:08.630Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"1"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"1178a5ac-34ad-4df7-80eb-b23a8dacce22","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books/?bookId=1
+Full URL: http://localhost:3000/api/books/?bookId=1
+-----------------------------------------------[2023-08-26T01:07:44.727Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"1"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"80c7ff6e-d79f-460c-8dce-ba117a13d1bd","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /book/?bookId=1
+Full URL: http://localhost:3000/api/book/?bookId=1
+-----------------------------------------------[2023-08-26T01:07:47.247Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"1"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"ae06f00f-9e4f-4274-bb97-abd770ee7271","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /book/?bookId=1
+Full URL: http://localhost:3000/api/book/?bookId=1
+-----------------------------------------------[2023-08-26T01:07:50.641Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"2"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"7cf9d826-fc47-48bc-85ce-df14e3938521","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /book/?bookId=2
+Full URL: http://localhost:3000/api/book/?bookId=2
+-----------------------------------------------[2023-08-26T01:09:45.445Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin","title":"Kolor Ijo","Author":"Dukun Palsu","year":"2003","genre":"takhayul"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"eb181baf-650d-46d2-a523-6b7fe193c6f2","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books?role=admin&title=Kolor%20Ijo&Author=Dukun%20Palsu&year=2003&genre=takhayul
+Full URL: http://localhost:3000/api/books?role=admin&title=Kolor%20Ijo&Author=Dukun%20Palsu&year=2003&genre=takhayul
+-----------------------------------------------[2023-08-26T01:11:10.255Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin","title":"Kolor Ijo","Author":"Dukun Palsu","year":"2003","genre":"takhayul"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"ca02ef5c-5b91-4526-976d-8e508853d628","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books?role=admin&title=Kolor%20Ijo&Author=Dukun%20Palsu&year=2003&genre=takhayul
+Full URL: http://localhost:3000/api/books?role=admin&title=Kolor%20Ijo&Author=Dukun%20Palsu&year=2003&genre=takhayul
+-----------------------------------------------[2023-08-26T01:14:09.852Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin","title":"Kolor Ijo","Author":"Dukun Palsu","year":"2003","genre":"takhayul"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"1afd671b-6897-4640-83cc-3d454653f25b","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books?role=admin&title=Kolor%20Ijo&Author=Dukun%20Palsu&year=2003&genre=takhayul
+Full URL: http://localhost:3000/api/books?role=admin&title=Kolor%20Ijo&Author=Dukun%20Palsu&year=2003&genre=takhayul
+-----------------------------------------------[2023-08-26T01:18:33.741Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin","title":"Kolor Ijo","Author":"Dukun Palsu","year":"2003","genre":"takhayul"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"87ab8880-9216-4f3e-a6f9-e8994ec4ed4d","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books?role=admin&title=Kolor%20Ijo&Author=Dukun%20Palsu&year=2003&genre=takhayul
+Full URL: http://localhost:3000/api/books?role=admin&title=Kolor%20Ijo&Author=Dukun%20Palsu&year=2003&genre=takhayul
+-----------------------------------------------[2023-08-26T01:18:51.513Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"f16e80ff-3942-4fc1-884f-64ffa2a22f3e","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books
+Full URL: http://localhost:3000/api/books
+-----------------------------------------------[2023-08-26T01:19:00.887Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"101c8e40-4d2f-4dcd-9756-dc0bcdeb3986","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books
+Full URL: http://localhost:3000/api/books
+-----------------------------------------------[2023-08-26T01:19:15.650Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"647c5391-9128-4147-acb2-dd42781d729e","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books?role=admin
+Full URL: http://localhost:3000/api/books?role=admin
+-----------------------------------------------[2023-08-26T01:24:52.500Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"097b3de2-4dcd-4373-a635-39400408b652","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books?role=admin
+Full URL: http://localhost:3000/api/books?role=admin
+-----------------------------------------------[2023-08-26T01:25:00.965Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"role":"admin","title":"Kolor Kuning"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"518faf29-78b0-4fbe-8167-81921eabc528","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: POST
+URL: /books?role=admin&title=Kolor%20Kuning
+Full URL: http://localhost:3000/api/books?role=admin&title=Kolor%20Kuning
+-----------------------------------------------[2023-08-26T01:25:12.162Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e190831f-2186-4595-909f-554b5536cf01","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books
+Full URL: http://localhost:3000/api/books
+-----------------------------------------------[2023-08-26T01:25:36.578Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"1"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"8146754a-441c-4c94-9bef-2fef2e7f9ab9","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books?bookId=1
+Full URL: http://localhost:3000/api/books?bookId=1
+-----------------------------------------------[2023-08-26T01:26:00.682Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"1"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"6bef3149-35af-4ef3-8b4b-ad6e7bd2f12d","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /book?bookId=1
+Full URL: http://localhost:3000/api/book?bookId=1
+-----------------------------------------------[2023-08-26T01:26:08.566Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"16"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"77031ffd-43a6-4ab9-bddc-1da5e8bb786a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /book?bookId=16
+Full URL: http://localhost:3000/api/book?bookId=16
+-----------------------------------------------[2023-08-26T01:27:53.617Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"genre":"Mitos Belaka","bookId":"16","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"8a6fbf49-fe08-48a1-959a-7a9ef7667fb2","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?genre=Mitos%20Belaka&bookId=16&role=admin
+Full URL: http://localhost:3000/api/books?genre=Mitos%20Belaka&bookId=16&role=admin
+-----------------------------------------------[2023-08-26T01:27:57.586Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"genre":"Mitos Belaka","bookId":"16","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"fc4ab65c-16af-4d69-9e87-c6059812473d","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?genre=Mitos%20Belaka&bookId=16&role=admin
+Full URL: http://localhost:3000/api/books?genre=Mitos%20Belaka&bookId=16&role=admin
+-----------------------------------------------[2023-08-26T01:29:36.391Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"genre":"Mitos Belaka","bookId":"16","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e63a4bef-db7c-4785-a272-88cbc9bff90a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?genre=Mitos%20Belaka&bookId=16&role=admin
+Full URL: http://localhost:3000/api/books?genre=Mitos%20Belaka&bookId=16&role=admin
+-----------------------------------------------[2023-08-26T01:29:37.419Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"genre":"Mitos Belaka","bookId":"16","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"f2343c37-efe2-429a-8af3-f4dcc7a1d482","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?genre=Mitos%20Belaka&bookId=16&role=admin
+Full URL: http://localhost:3000/api/books?genre=Mitos%20Belaka&bookId=16&role=admin
+-----------------------------------------------[2023-08-26T01:29:43.400Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"genre":"Mitos Belaka","bookId":"15","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e3786493-d91d-4069-bba4-44bb28870546","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?genre=Mitos%20Belaka&bookId=15&role=admin
+Full URL: http://localhost:3000/api/books?genre=Mitos%20Belaka&bookId=15&role=admin
+-----------------------------------------------[2023-08-26T01:29:46.235Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"genre":"Mitos Belaka","bookId":"15","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"9458a3ba-7be8-4cc8-b33f-8d7ec3be1037","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?genre=Mitos%20Belaka&bookId=15&role=admin
+Full URL: http://localhost:3000/api/books?genre=Mitos%20Belaka&bookId=15&role=admin
+-----------------------------------------------[2023-08-26T01:31:18.067Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"genre":"Mitos Belaka","bookId":"15","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"66cd1d55-7316-411d-812a-8f7487760107","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?genre=Mitos%20Belaka&bookId=15&role=admin
+Full URL: http://localhost:3000/api/books?genre=Mitos%20Belaka&bookId=15&role=admin
+-----------------------------------------------[2023-08-26T01:31:33.361Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","genre":"Mitos Belaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"a52ff9bf-8684-4d4e-91e1-fc4a458ab061","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&genre=Mitos%20Belaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&genre=Mitos%20Belaka&role=admin
+-----------------------------------------------[2023-08-26T01:31:35.801Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","genre":"Mitos Belaka"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"33cdeb85-61bc-4ce8-88af-39ddbfc5190a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&genre=Mitos%20Belaka
+Full URL: http://localhost:3000/api/books?bookId=15&genre=Mitos%20Belaka
+-----------------------------------------------[2023-08-26T01:31:39.738Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","genre":"Mitos Belaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"ed2411fc-6cd6-4101-8b3c-2b200b57cf5a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&genre=Mitos%20Belaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&genre=Mitos%20Belaka&role=admin
+-----------------------------------------------[2023-08-26T01:32:39.341Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"id":"15","genre":"Mitos Belaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"a16800ba-b65b-4878-8b4e-a7a618ad39de","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?id=15&genre=Mitos%20Belaka&role=admin
+Full URL: http://localhost:3000/api/books?id=15&genre=Mitos%20Belaka&role=admin
+-----------------------------------------------[2023-08-26T01:32:47.790Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","genre":"Mitos Belaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"3dd52c43-b5b9-4b7e-9bb0-853242ceb5d4","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&genre=Mitos%20Belaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&genre=Mitos%20Belaka&role=admin
+-----------------------------------------------[2023-08-26T01:33:52.318Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","genre":"Mitos Belaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"09691633-7a21-45c7-9cd2-151d6fdbedd3","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&genre=Mitos%20Belaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&genre=Mitos%20Belaka&role=admin
+-----------------------------------------------[2023-08-26T01:33:53.336Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","genre":"Mitos Belaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"b8208bc0-3dd5-48e4-b739-f8997cec83d3","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&genre=Mitos%20Belaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&genre=Mitos%20Belaka&role=admin
+-----------------------------------------------[2023-08-26T01:34:31.910Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","genre":"Mitos Belaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e82e2a95-edf4-4b49-90b7-90475167997a","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&genre=Mitos%20Belaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&genre=Mitos%20Belaka&role=admin
+-----------------------------------------------[2023-08-26T01:42:05.924Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","genre":"Mitos Belaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"a5fc980c-1dc0-47c7-b700-e312e7f0cb50","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&genre=Mitos%20Belaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&genre=Mitos%20Belaka&role=admin
+-----------------------------------------------[2023-08-26T01:43:16.744Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","genre":"Mitos Belaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"65890d1b-6d2c-47f7-81cf-c444852650dc","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&genre=Mitos%20Belaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&genre=Mitos%20Belaka&role=admin
+-----------------------------------------------[2023-08-26T01:44:30.650Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"c8737dd7-049e-4011-92c8-ee6d0033ceea","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books
+Full URL: http://localhost:3000/api/books
+-----------------------------------------------[2023-08-26T01:48:40.721Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","title":"Kalang Kabut","Author":"Jaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"e4d98dc7-5185-4531-904d-1db04f2ef5eb","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&title=Kalang%20Kabut&Author=Jaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&title=Kalang%20Kabut&Author=Jaka&role=admin
+-----------------------------------------------[2023-08-26T01:48:57.234Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"71e6d5cd-e512-4a9e-a3bc-e5488373d0e2","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books
+Full URL: http://localhost:3000/api/books
+-----------------------------------------------[2023-08-26T01:51:16.305Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"00d3e11f-8a4b-4c33-9195-09219bdc523b","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+Request Body: {}
+Method: GET
+URL: /books
+Full URL: http://localhost:3000/api/books
+-----------------------------------------------[2023-08-26T01:51:26.902Z]
+IP Address: ::1
+User Agent: PostmanRuntime/7.32.3
+Referrer: undefined
+Query Parameters: {"bookId":"15","title":"Kalang Kabut","Author":"Jaka","role":"admin"}
+Request Headers: {"user-agent":"PostmanRuntime/7.32.3","accept":"*/*","postman-token":"8a346a1e-cb00-44b7-998b-ab75885620fd","host":"localhost:3000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"0"}
+Request Body: {}
+Method: PUT
+URL: /books?bookId=15&title=Kalang%20Kabut&Author=Jaka&role=admin
+Full URL: http://localhost:3000/api/books?bookId=15&title=Kalang%20Kabut&Author=Jaka&role=admin
+-----------------------------------------------
